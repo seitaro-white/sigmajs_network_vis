@@ -5,17 +5,17 @@
   "logo": {
     "file": "",
     "link": "",
-    "text": "Joe"
+    "text": "Joey"
   },
   "text": {
     "more": "",
     "intro": "",
-    "title": "MyFirstNetwork"
+    "title": "Twitter Network - Inverse Log Algorithm"
   },
   "legend": {
     "edgeLabel": "Follower Connection",
     "colorLabel": "Cluster",
-    "nodeLabel": "Person"
+    "nodeLabel": "User"
   },
   "features": {
     "search": true,
@@ -24,7 +24,7 @@
   },
   "informationPanel": {
     "groupByEdgeDirection": true,
-    "imageAttribute": false
+    "imageAttribute": "image"
   },
   "sigma": {
     "drawingProperties": {
@@ -32,16 +32,16 @@
       "defaultHoverLabelBGColor": "#002147",
       "defaultLabelBGColor": "#ddd",
       "activeFontStyle": "bold",
-      "defaultLabelColor": "#000",
-      "labelThreshold": 10,
+      "defaultLabelColor": "#ddd",
+      "labelThreshold": 5,
       "defaultLabelHoverColor": "#fff",
       "fontStyle": "bold",
       "hoverFontStyle": "bold",
       "defaultLabelSize": 14
     },
     "graphProperties": {
-      "maxEdgeSize": 0.5,
-      "minEdgeSize": 0.2,
+      "maxEdgeSize": 0.6,
+      "minEdgeSize": 0.3,
       "minNodeSize": 1,
       "maxNodeSize": 7
     },

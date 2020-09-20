@@ -5,17 +5,17 @@
   "logo": {
     "file": "",
     "link": "",
-    "text": "Joe"
+    "text": "Joey"
   },
   "text": {
     "more": "",
     "intro": "",
-    "title": "Planning Case Citation Network"
+    "title": "Twitter Network - Inverse Log Algorithm"
   },
   "legend": {
-    "edgeLabel": "Follower/Friend",
-    "colorLabel": "Community",
-    "nodeLabel": "Person"
+    "edgeLabel": "Follower Connection",
+    "colorLabel": "Cluster",
+    "nodeLabel": "User"
   },
   "features": {
     "search": true,
@@ -32,8 +32,8 @@
       "defaultHoverLabelBGColor": "#002147",
       "defaultLabelBGColor": "#ddd",
       "activeFontStyle": "bold",
-      "defaultLabelColor": "#000",
-      "labelThreshold": 10,
+      "defaultLabelColor": "#ddd",
+      "labelThreshold": 7,
       "defaultLabelHoverColor": "#fff",
       "fontStyle": "bold",
       "hoverFontStyle": "bold",
@@ -41,9 +41,9 @@
     },
     "graphProperties": {
       "maxEdgeSize": 0.5,
-      "minEdgeSize": 0.2,
-      "minNodeSize": 1,
-      "maxNodeSize": 7
+      "minEdgeSize": 0.5,
+      "minNodeSize": 2,
+      "maxNodeSize": 10
     },
     "mouseProperties": {
       "maxRatio": 20,

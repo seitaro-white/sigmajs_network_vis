@@ -5,16 +5,16 @@
   "logo": {
     "file": "",
     "link": "",
-    "text": ""
+    "text": "Joey"
   },
   "text": {
     "more": "",
     "intro": "",
-    "title": ""
+    "title": "Planning Court Case Network"
   },
   "legend": {
     "edgeLabel": "Citation",
-    "colorLabel": "Date",
+    "colorLabel": "Cluster",
     "nodeLabel": "Case"
   },
   "features": {
@@ -28,13 +28,12 @@
   },
   "sigma": {
     "drawingProperties": {
-      "defaultEdgeType": "curvedArrow",
-      "defaultEdgeArrow": "target",
+      "defaultEdgeType": "curve",
       "defaultHoverLabelBGColor": "#002147",
       "defaultLabelBGColor": "#ddd",
       "activeFontStyle": "bold",
-      "defaultLabelColor": "#000",
-      "labelThreshold": 7,
+      "defaultLabelColor": "#ddd",
+      "labelThreshold": 8,
       "defaultLabelHoverColor": "#fff",
       "fontStyle": "bold",
       "hoverFontStyle": "bold",
@@ -42,11 +41,9 @@
     },
     "graphProperties": {
       "maxEdgeSize": 1.5,
-      "minEdgeSize": 1,
+      "minEdgeSize": 1.5,
       "minNodeSize": 1,
-      "maxNodeSize": 7,
-      "minArrowSize": 100,
-      "maxArrowSize": 300
+      "maxNodeSize": 8
     },
     "mouseProperties": {
       "maxRatio": 20,
